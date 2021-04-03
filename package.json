@@ -1,14 +1,14 @@
 {
-  "name": "@semiorbit/api-centeral",
+  "name": "@semiorbit/api-central",
   "version": "1.0.0",
-  "description": "A set of functions for calling Api",
+  "description": "A set of functions for preparing http requests and calling Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/semiorbit/api-centeral.git"
+    "url": "git+https://github.com/semiorbit/api-central.git"
   },
   "keywords": [
     "Api",
@@ -20,7 +20,7 @@
   "author": "Ibrahim Khalil Khalbous",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/semiorbit/api-centeral/issues"
+    "url": "https://github.com/semiorbit/api-central/issues"
   },
-  "homepage": "https://github.com/semiorbit/api-centeral#readme"
+  "homepage": "https://github.com/semiorbit/api-central#readme"
 }
