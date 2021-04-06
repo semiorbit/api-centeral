@@ -1,6 +1,6 @@
 {
   "name": "@semiorbit/api-central",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of functions for preparing http requests and calling Api",
   "main": "index.js",
   "scripts": {
